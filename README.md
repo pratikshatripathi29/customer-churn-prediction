@@ -1,6 +1,6 @@
 
 📉 Customer Churn Prediction (Telco) – End-to-End Machine Learning Project
-
+Dataset link-  https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 Predict which telecom customers are likely to leave, explain why, and choose a decision threshold that maximises retention profit.
 <img width="1861" height="981" alt="image" src="https://github.com/user-attachments/assets/3a1c860c-a55f-44a7-9985-b39bab3d14b0" />
 <img width="1618" height="910" alt="image" src="https://github.com/user-attachments/assets/1df51b1d-d119-450e-8ece-a5f81a58520d" />
